@@ -1,3 +1,20 @@
+
+def a():
+    return[
+        '    aa    ',
+        '    aa    ',
+        '   a  a   ',
+        '   a  a   ',
+        '   a  a   ',
+        '  a    a  ',
+        '  a    a  ',
+        '  aaaaaa  ',
+        ' a      a ',
+        ' a      a ',
+        'a        a',
+        'a        a'
+    ]
+
 letters_dict = {
     'a' : a,
     'b' : b,
@@ -48,3 +65,4 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
+

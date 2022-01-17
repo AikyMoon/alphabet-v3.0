@@ -31,7 +31,6 @@ def a():
         'a        a',
         'a        a'
     ]
-
 letters_dict = {
     'a' : a,
     'b' : b,
@@ -60,6 +59,10 @@ letters_dict = {
     'y' : y,
     'z' : z,
     ' ' : void,
+    ',' : comma,
+    '?' : question,
+    '!' : exclamation,
+    '.' : dot
 }
 
 def parser(text):

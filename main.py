@@ -1,4 +1,20 @@
 
+def k():
+    return [
+        'k      k  ',
+        'k     k   ',
+        'k    k    ',
+        'k   k     ',
+        'k  k      ',
+        'kkk       ',
+        'kk k      ',
+        'k   k     ',
+        'k    k    ',
+        'k     k   ',
+        'k     k   ',
+        'k      k  '
+    ]
+
 def j():
     return [
         'jjjjjjjjjj',
@@ -211,4 +227,3 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
-

@@ -57,6 +57,10 @@ def dot():
         '   ',
         '   ',
         '   ',
+        '   ',
+        '...',
+        '...',
+        '...'
     ]
     
 def comma():
@@ -170,17 +174,17 @@ def u():
 
 def t():
     return [
-'tttttttttt'
-'tttttttttt'
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
-'   tttt   '
+'tttttttttt',
+'tttttttttt',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
+'   tttt   ',
 '   tttt   '
    ]
 
@@ -341,7 +345,7 @@ def j():
         'j   jj    ',
         'jj  jj    ',
         ' jj jj    ',
-        '  jjj      '
+        '  jjj     '
     ]
 
 def i():
@@ -539,4 +543,4 @@ def print_letters(parse:list, lets:dict):
 text = input()
 
 lst = parser(text)
-print_letters(lst, let_dict)
+print_letters(lst, letters_dict)

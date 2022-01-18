@@ -1,4 +1,20 @@
 
+def h():
+    return [
+        'hh      hh',
+        'hh      hh',
+        'hh      hh',
+        'hh      hh',
+        'hh      hh',
+        'hhhhhhhhhh',
+        'hhhhhhhhhh',
+        'hh      hh',
+        'hh      hh',
+        'hh      hh',
+        'hh      hh',
+        'hh      hh']
+
+
 def g():
     return [
         '   ggggg  ',
@@ -163,4 +179,3 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
-

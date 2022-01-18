@@ -1,4 +1,20 @@
 
+def o():
+    return [
+'  oooooo  ',
+' ooo  ooo ',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+'ooo    ooo',
+' ooo  ooo ',
+'  oooooo  '
+        ]
+
 def n():
     return [
         'nnn    nnn',

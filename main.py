@@ -1,4 +1,20 @@
 
+def j():
+    return [
+        'jjjjjjjjjj',
+        'jjjjjjjjjj',
+        '    jj    ',
+        '    jj    ',
+        '    jj    ',
+        '    jj    ',
+        '    jj    ',
+        '    jj    ',
+        'j   jj    ',
+        'jj  jj    ',
+        ' jj jj    ',
+        '  jjj      '
+    ]
+
 def i():
     return [
         'iiiiiiiiii',
@@ -195,3 +211,4 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
+

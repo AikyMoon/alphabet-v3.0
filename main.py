@@ -1,4 +1,21 @@
 
+def c():
+    return [
+        '   cccc   ',
+        '  cc  cc  ',
+        ' cc    cc ',
+        'cc     cc ',
+        'cc        ',
+        'cc        ',
+        'cc        ',
+        'cc        ',
+        'cc     cc ',
+        ' cc    cc ',
+        '  cc  cc  ',
+        '   cccc   ',
+    ]
+
+
 def b():
     return [
 'bbbb      ',
@@ -85,4 +102,3 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
-

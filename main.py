@@ -1,3 +1,19 @@
+
+def g():
+    return [
+        '   ggggg  ',
+        '  ggggggg ',
+        ' gg     gg',
+        'gg      gg',
+        'gg        ',
+        'gg        ',
+        'gg        ',
+        'gg   ggggg',
+        'gg      gg',
+        ' gg     gg',
+        '  ggggggg ',
+        '   ggggg  ',
+    ]
 def f():
     return [
         'ffffffffff',
@@ -147,3 +163,4 @@ text = input()
 
 lst = parser(text)
 print_letters(lst, let_dict)
+

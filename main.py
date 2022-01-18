@@ -1,4 +1,19 @@
 
+def v():
+    return [
+        'vvv    vvv',
+        'vvv    vvv',
+        'vvv    vvv',
+        'vvv    vvv',
+        'vvv    vvv',
+        'vvv    vvv',
+        'vvv    vvv',
+        ' vvv  vvv ',
+        ' vvv  vvv ',
+        ' vvv  vvv ',
+        '  vvvvvv  ',
+        '   vvvv   '
+    ]
 def u():
     return [
         'uuu    uuu',

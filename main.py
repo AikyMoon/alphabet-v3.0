@@ -1,4 +1,20 @@
 
+def t():
+    return [
+'tttttttttt'
+'tttttttttt'
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+'   tttt   '
+   ]
+
 def s():
     return [
 '  sssssss ',
